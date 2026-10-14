@@ -1,0 +1,7 @@
+__pycache__/
+downloads/
+.venv/
+.env
+.env.*
+*.pem
+*.key
